@@ -11,4 +11,4 @@ This project recognizes handwritten text using the Microsoft TrOCR Transformer m
 ## Run Project
 
 pip install -r requirements.txt
-streamlit run streamlit_app.py
+- streamlit run streamlit_app.py
