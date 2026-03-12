@@ -15,4 +15,4 @@ This project recognizes handwritten text using the Microsoft TrOCR Transformer m
 
 ## Streamlit Link:
 
--https://ai-handwriting-recognition.streamlit.app/
+- https://ai-handwriting-recognition.streamlit.app/
